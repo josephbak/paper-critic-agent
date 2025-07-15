@@ -29,3 +29,11 @@ sample_paper.pdf
 # API Keys (extra safety)
 .env.local
 config.json
+
+# AI Models (just in case)
+*.gguf
+*.bin
+*.safetensors
+models/
+*.model
+huggingface_cache/
